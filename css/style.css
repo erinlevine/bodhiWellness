@@ -476,7 +476,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .daveAndKim{
   max-width:100% !important;
   max-height:100% !important;
-  border-radius: 2%;
+  border-radius: 2% !important;
 }
 
 #about .about-content {
